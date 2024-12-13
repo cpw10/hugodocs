@@ -6,7 +6,7 @@ nav_section: Customizing Alto
 weight: 1
 draft: false
 ---
-You can easily configure Alto's Navigation and Footer items within CloudCannon, under Alto's **Site Settings**.&nbsp;
+You can easily configure Alto's Navigation and Footer items within CloudCannon, under Alto's Site Settings.&nbsp;
 
 ## Configuring the navigation
 
