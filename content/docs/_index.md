@@ -20,8 +20,6 @@ Navigation in Alto is handled by front matter in Hugo, which can be easily edite
 
 **Each page on Alto has a 'Parent Section' property, which allows you to group related items in the sidebar. This sample site has a single Parent Sections, 'Customizing Alto'.**
 
-{{< tweet user="" id="" >}}
-
 You can also change the order of the page within the sidebar group using 'Weight'.
 
 {{< figure src="/uploads/screenshot-2023-07-27-at-1-17-49-pm.png" >}}
